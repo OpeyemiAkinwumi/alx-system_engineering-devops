@@ -11,3 +11,4 @@
 10-back is used to go back to the previoous directory
 11-lists is used to display files in current and /boot directoru
 iamafile check the type of file
+13-symbolic_link used to create symbolic link
