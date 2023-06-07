@@ -12,3 +12,4 @@
 11-lists is used to display files in current and /boot directoru
 iamafile check the type of file
 13-symbolic_link used to create symbolic link
+14-copy_html copy html files
