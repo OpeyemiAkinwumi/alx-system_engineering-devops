@@ -8,3 +8,4 @@
 7-movethatfile is used to move the betty file into the first directory in /tmp/
 8-firstdelete is used to delete the betty file
 9-firstdirdelete is used to delete the first directory
+10-back is used to go back to the previoous directory
