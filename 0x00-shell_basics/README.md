@@ -3,3 +3,4 @@
 2-bring_me_home is used to change the working directory to the user’s home directory
 3-listfiles is used to display the current directory in a long format
 4-listmorefiles is used to display hidden files in a long format
+5-listfilesdigitonly is used to display user ids
