@@ -8,3 +8,4 @@ whoami displays the current user
 8-James_Bond given access to only others
 9-John_Doe -rwxr-x-wx
 10-mirror_permissions reference the mod of another file so they can have the same execution permission
+11-directories_permissions script Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
