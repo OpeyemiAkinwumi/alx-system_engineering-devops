@@ -11,3 +11,4 @@ whoami displays the current user
 11-directories_permissions script Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 12-directory_permissions makes a directory and give it execution permission simultaneously
 13-change_group changes the group owner of a file
+100-change_owner_and_group Command that changes the owner of a group and the group owner for all files and sub directories in the working directory
