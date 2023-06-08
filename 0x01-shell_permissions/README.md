@@ -10,3 +10,4 @@ whoami displays the current user
 10-mirror_permissions reference the mod of another file so they can have the same execution permission
 11-directories_permissions script Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 12-directory_permissions makes a directory and give it execution permission simultaneously
+13-change_group changes the group owner of a file
