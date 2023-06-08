@@ -5,4 +5,5 @@ whoami displays the current user
 4-empty creates an empty file named hello
 5-execute gives execution permission to the owner of the file
 6-multiple_permissions gives execution permission to the owner and group owners of the file
-8-James_Bond given access to only others 
+8-James_Bond given access to only others
+9-John_Doe -rwxr-x-wx
