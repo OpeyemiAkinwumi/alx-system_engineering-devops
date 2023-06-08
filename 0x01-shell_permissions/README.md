@@ -7,3 +7,4 @@ whoami displays the current user
 6-multiple_permissions gives execution permission to the owner and group owners of the file
 8-James_Bond given access to only others
 9-John_Doe -rwxr-x-wx
+10-mirror_permissions reference the mod of another file so they can have the same execution permission
