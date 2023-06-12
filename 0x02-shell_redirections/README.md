@@ -6,3 +6,4 @@
 5-firstlines prints the first 10 lines of a file
 6-thirdlines prints the third line o f a file using the head and last commands
 8-cwd_state  writes into the file ls_cwd_content the result of the command ls -la
+9-duplicate duplicates the last line of a file
