@@ -1,1 +1,2 @@
 0-hello_world is a script that prints Hello world with a new line on the standard output
+1-confused_smiley print confused smiley emoji
